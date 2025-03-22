@@ -22,7 +22,7 @@ public class Interfaz extends JFrame implements InterfazUsuario {
     private JLabel tituloIn;
     private int intentos = 3; 
     private final String[][] usuarios = { 
-        //usuarios y contraseñas.
+        //usuarios y contraseñas:
         {"Luis", "Luish"},
         {"Hernan", "Hernanl"},
         {"Ramirez", "Ramirezo"},
