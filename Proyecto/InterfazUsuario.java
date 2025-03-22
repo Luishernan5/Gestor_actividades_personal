@@ -1,4 +1,5 @@
 package Proyecto;
+// Interfaz reutilizacion:
 public interface InterfazUsuario {
     void titulo();
     void crearEtiquetas();
