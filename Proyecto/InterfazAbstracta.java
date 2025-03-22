@@ -21,7 +21,8 @@ public abstract class InterfazAbstracta extends JFrame {
         {"Luis", "Luish"},
         {"Hernan", "Hernanl"},
         {"Ramirez", "Ramirezo"},
-        {"Ortiz", "Ortizr"}
+        {"Ortiz", "Ortizr"},
+        {"L1", "h1"}
     };
     
     public InterfazAbstracta(String titulo) {
