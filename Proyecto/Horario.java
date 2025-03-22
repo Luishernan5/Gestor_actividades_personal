@@ -8,7 +8,7 @@ public class Horario {
     private boolean[] importantes;
 
     public Horario(String day) {
-        // 'this' se utiliza para referirse al atributo de la instancia actual
+        // 'this' se utiliza para referirse al atributo de la instancia actual:
         this.dias = day;
         this.actividades = new String[9]; // Inicializa el array con 9 
         //elementos, inicialmente null
