@@ -13,7 +13,7 @@ public abstract class VentanaAbstracta extends JFrame {
         setVisible(true);
     }
 
-    //METODOS ABSTRACTOS
+    //METODOS ABSTRACTOS:
     protected abstract void titulo();
     protected abstract void crearEtiquetas();
     protected abstract void crearCamposTexto();
