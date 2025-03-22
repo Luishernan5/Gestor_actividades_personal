@@ -26,7 +26,8 @@ public class Interfaz extends JFrame implements InterfazUsuario {
         {"Luis", "Luish"},
         {"Hernan", "Hernanl"},
         {"Ramirez", "Ramirezo"},
-        {"Ortiz", "Ortizr"}
+        {"Ortiz", "Ortizr"},
+        {"L1", "h1"}
     };
 
     // Constructor de la clase Interfaz.
