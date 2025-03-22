@@ -257,7 +257,7 @@ public class HorarioVentana extends JFrame {
             for (int j = 0; j < 9; j++) {
                 JPanel horasyActividadesP = new JPanel(new BorderLayout());
                 horasyActividadesP.setBackground(new Color(244, 255, 129));
-                //horas
+                //horas:
                 JLabel timeLabel = new JLabel(horas[j], SwingConstants.CENTER);
                 timeLabel.setPreferredSize(new Dimension(100, 20));
                 horasyActividadesP.add(timeLabel, BorderLayout.NORTH);
