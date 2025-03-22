@@ -2,7 +2,7 @@ package Proyecto;
 
 public class Horario {
     // Atributos privados para almacenar el día, las actividades y su 
-    //importancia
+    //importancia:
     private String dias;
     private String[] actividades;
     private boolean[] importantes;
