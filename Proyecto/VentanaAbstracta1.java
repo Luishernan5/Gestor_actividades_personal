@@ -1,6 +1,6 @@
 package Proyecto;
 public abstract class VentanaAbstracta1 {
-    //METODOS ABSTRACTOS
+    //METODOS ABSTRACTOS:
     protected abstract void titulo();
     protected abstract void crearEtiquetas();
     protected abstract void crearCamposTexto();
